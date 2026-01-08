@@ -25,7 +25,18 @@ I enjoy working on **coding projects, presentations, and video content**, and I�
 
 ## 📂 Projects
 Here are some of my projects:
-- 🔹 **Binary Search Tree in C** – Implementation with menu-driven program
+- 🔹 **Student Record Management System (C)**  
+  Console-based application to add, view, update, and delete student records using structures and file handling.
+
+- 🔹 **Simple Calculator (Python)**  
+  Command-line calculator performing basic arithmetic operations.
+
+- 🔹 **Number Guessing Game (Python)**  
+  Interactive game using loops, conditionals, and random number generation.
+
+- 🔹 **Personal Portfolio Web Page**  
+  Static website built using HTML and CSS to showcase academic details.
+  
 - 🔹 **Presentation & Documentation Work** – Club & academic documentation
 
 *(More projects coming soon 🚀)*
